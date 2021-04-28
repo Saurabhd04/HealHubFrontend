@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HealHubFrontend/static/css/main.a24cf04f.chunk.css",
+    "main.js": "/HealHubFrontend/static/js/main.082727db.chunk.js",
+    "main.js.map": "/HealHubFrontend/static/js/main.082727db.chunk.js.map",
+    "runtime-main.js": "/HealHubFrontend/static/js/runtime-main.1c86c868.js",
+    "runtime-main.js.map": "/HealHubFrontend/static/js/runtime-main.1c86c868.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/HealHubFrontend/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0eac1629.chunk.js": "/HealHubFrontend/static/js/2.0eac1629.chunk.js",
+    "static/js/2.0eac1629.chunk.js.map": "/HealHubFrontend/static/js/2.0eac1629.chunk.js.map",
+    "index.html": "/HealHubFrontend/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/HealHubFrontend/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.a24cf04f.chunk.css.map": "/HealHubFrontend/static/css/main.a24cf04f.chunk.css.map",
+    "static/js/2.0eac1629.chunk.js.LICENSE.txt": "/HealHubFrontend/static/js/2.0eac1629.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/HealHubFrontend/static/media/HEALTHCARE IMAGE.2dff1123.png",
+    "static/media/HealHubLogo.d3c10949.jpeg": "/HealHubFrontend/static/media/HealHubLogo.d3c10949.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c86c868.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0eac1629.chunk.js",
+    "static/css/main.a24cf04f.chunk.css",
+    "static/js/main.082727db.chunk.js"
+  ]
+}
